@@ -1,0 +1,9 @@
+/*---------------- Form nb Styling ------------------- */
+
+
+.hero-section {
+    background:url(../images/ph6.jpg);
+    background-size: cover;
+    padding: 50% 0 0 0;
+    color: white;
+}

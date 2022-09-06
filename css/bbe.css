@@ -1,0 +1,11 @@
+/*---------------- Form bbe Styling ------------------- */
+
+
+.hero-section {
+    background:url(../images/ph222.jpg);
+    background-size: cover;
+    height: 100%;
+    padding: 50% 0 0 0;
+    color: white;
+
+}

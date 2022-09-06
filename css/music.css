@@ -1,0 +1,12 @@
+/*---------------- Form music Styling ------------------- */
+
+.hero-section {
+    /* Background image */
+    background-image: url('/images/musicbg.jpg');
+    /* Full-screen */
+    height: 100%;
+    /* Center the background image */
+    background-position: center;
+    /* Scale and zoom in the image */
+    background-size: cover;
+}

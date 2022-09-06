@@ -3,7 +3,7 @@
 
 .hero-section {
     /* Background image */
-    background-image: url('/images/nutritionbackground.jpg');
+    background-image: url('../images/nutritionbackground.jpg');
     /* Full-screen */
     height: 100%;
     /* Center the background image */

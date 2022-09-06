@@ -2,7 +2,7 @@
 
 .hero-section {
     /* Background image */
-    background-image: url('/images/musicbg.jpg');
+    background-image: url('../images/musicbg.jpg');
     /* Full-screen */
     height: 100%;
     /* Center the background image */
